@@ -17,4 +17,5 @@ python3 compare.py --images-path images_dir
 Benchmark results:
 - TestSet1: `Precision: 0.98901, Recall: 0.96774, Overall time: 29 mins`
 - TestSet2: `Precision: 0.98863, Recall: 0.96666, Overall time: 35 mins`
+- TestSet3: `Precision: 0.90871, Recall: 0.83908, Overall time: 1 hour 0 mins`
 - Average recognition time (per image): `± 30 secs` (yeah, python is slow)
